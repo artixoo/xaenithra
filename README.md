@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# ⬛ XAENITHRA
+
+> Systems initialized.
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -71,3 +75,8 @@ export default defineConfig([
   },
 ])
 ```
+
+---
+*Note: This is a legacy repository from my previous profile. I changed my GitHub account, so it has been pushed here lately.*
+
+**Contact:** [artix@outlook.in](mailto:artix@outlook.in) | `// EOF`
